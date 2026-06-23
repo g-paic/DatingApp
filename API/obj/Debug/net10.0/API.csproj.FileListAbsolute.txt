@@ -152,3 +152,4 @@ C:\Users\Korisnik\Desktop\My Courses\DatingApp\API\bin\Debug\net10.0\Microsoft.A
 C:\Users\Korisnik\Desktop\My Courses\DatingApp\API\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\Korisnik\Desktop\My Courses\DatingApp\API\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\Korisnik\Desktop\My Courses\DatingApp\API\obj\Debug\net10.0\API.sourcelink.json
+C:\Users\Korisnik\Desktop\My Courses\DatingApp\API\bin\Debug\net10.0\Data\UserSeedData.json
